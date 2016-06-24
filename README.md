@@ -20,10 +20,10 @@ Install using [NPM](https://www.npmjs.org/):
 npm install -g transl
 ```
 
-After installed, run the command **transl** followting the below examples:
+After installed, run the **transl** command following the below examples:
 
 ```shell
-# Only destination language setted. In this case the source language is automatically identified.
+# Only destination language setted. In this case, the source language is automatically identified.
 $ transl pt orange
 #result Laranja
 
