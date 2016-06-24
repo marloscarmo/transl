@@ -9,6 +9,8 @@ version: 0.1.0
 
 **Transl** is a simple command line translator to make your life easier.
 
+![Screenshot](http://i.imgur.com/eYmWPAl.jpg)
+
 
 ## Install
 
