@@ -1,7 +1,7 @@
 {
-  "name": "transl-node",
+  "name": "transl",
   "version": "1.0.0",
-  "description": "Translator by terminal.",
+  "description": "Transl is a simple command line translator to make your life easier.",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/mock-transl.js"
@@ -9,10 +9,30 @@
   "keywords": [
     "translate",
     "translator",
-    "google"
+    "google",
+    "tradutor",
+    "google translate",
+    "google translator"
   ],
-  "author": "Marlos Carmo (marloscarmo.com)",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marloscarmo/transl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marloscarmo/transl/issues"
+  },
+  "author": {
+    "name": "Marlos Carmo",
+    "url": "http://marloscarmo.com"
+  },
+  "homepage": "https://github.com/marloscarmo/transl",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/marloscarmo/transl/blob/master/LICENSE"
+    }
+  ],
+  "preferGlobal": true,
   "bin": {
     "transl": "./index.js"
   },
