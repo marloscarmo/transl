@@ -1,4 +1,4 @@
-# transl
+# 🌎 transl
 
 version: 0.1.0
 
