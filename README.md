@@ -2,7 +2,7 @@
 
 version: 0.1.0
 
-[![Build Status](https://travis-ci.org/ruyadorno/mitro-cli.svg?branch=master)](https://travis-ci.org/ruyadorno/mitro-cli)
+[![Build Status](https://travis-ci.org/marloscarmo/transl.svg?branch=master)](https://travis-ci.org/marloscarmo/transl)
 
 
 ## About
